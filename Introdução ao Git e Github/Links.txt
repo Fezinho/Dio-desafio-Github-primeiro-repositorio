@@ -1,0 +1,5 @@
+Git download: https://git-scm.com/downloads
+O Git Bash é um terminal para otimizar o uso do Git
+
+Typora download: https://typora.io/
+É um editor e leitor de Markdown 
